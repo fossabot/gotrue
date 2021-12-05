@@ -1,4 +1,5 @@
 ![GoTrue](gotrue.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjnflint%2Fgotrue.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjnflint%2Fgotrue?ref=badge_shield)
 
 <p align="center">User management for APIs</p>
 
@@ -537,3 +538,7 @@ GoTrue exposes the following endpoints:
 ## TODO
 
 * Schema for custom user data in config file
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjnflint%2Fgotrue.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjnflint%2Fgotrue?ref=badge_large)
